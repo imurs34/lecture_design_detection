@@ -1,6 +1,8 @@
 # Lecture Design Object Detection
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Example Image1](https://anonymous.4open.science/r/lecture_design_detection-5134/video5_0_2_shot20.jpg)
+
+![Example Image2](https://anonymous.4open.science/r/lecture_design_detection-5134/video54_3_1_shot58.jpg)
 
 Tensorflow lecture design object detection implementation proposed in the following paper:
 
